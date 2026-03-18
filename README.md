@@ -3,7 +3,7 @@
 
 1. **Data Collection**
 
-   * Collected road accident data in **Excel** format.
+   * The dataset used in the project was collected from **Dataful.in** in **Excel** format.
    * Data included **state, year, vehicle type, driver details, road conditions, accident severity**, etc.
 
 2. **Data Cleaning & Preparation**
